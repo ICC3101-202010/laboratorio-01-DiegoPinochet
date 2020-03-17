@@ -1,7 +1,0 @@
-C:\Users\dppin\Desktop\Diego Pinochet\laboratorio-01-DiegoPinochet\Lab1 Diego_Pinochet\Lab1 Diego_Pinochet\bin\Debug\Lab1 Diego_Pinochet.exe.config
-C:\Users\dppin\Desktop\Diego Pinochet\laboratorio-01-DiegoPinochet\Lab1 Diego_Pinochet\Lab1 Diego_Pinochet\bin\Debug\Lab1 Diego_Pinochet.exe
-C:\Users\dppin\Desktop\Diego Pinochet\laboratorio-01-DiegoPinochet\Lab1 Diego_Pinochet\Lab1 Diego_Pinochet\bin\Debug\Lab1 Diego_Pinochet.pdb
-C:\Users\dppin\Desktop\Diego Pinochet\laboratorio-01-DiegoPinochet\Lab1 Diego_Pinochet\Lab1 Diego_Pinochet\obj\Debug\Lab1 Diego_Pinochet.csprojAssemblyReference.cache
-C:\Users\dppin\Desktop\Diego Pinochet\laboratorio-01-DiegoPinochet\Lab1 Diego_Pinochet\Lab1 Diego_Pinochet\obj\Debug\Lab1 Diego_Pinochet.csproj.CoreCompileInputs.cache
-C:\Users\dppin\Desktop\Diego Pinochet\laboratorio-01-DiegoPinochet\Lab1 Diego_Pinochet\Lab1 Diego_Pinochet\obj\Debug\Lab1 Diego_Pinochet.exe
-C:\Users\dppin\Desktop\Diego Pinochet\laboratorio-01-DiegoPinochet\Lab1 Diego_Pinochet\Lab1 Diego_Pinochet\obj\Debug\Lab1 Diego_Pinochet.pdb
