@@ -12,10 +12,9 @@ namespace Lab1_Diego_Pinochet
         {
             Persona person = new Persona();
             person.Name = "Bob";
-            person.Name = "Kunga";
+            person.LastName = "Kunga";
 
             person.Lanzar();
-
         }
     }
 }
