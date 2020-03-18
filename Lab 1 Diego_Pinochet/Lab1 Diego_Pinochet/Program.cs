@@ -10,10 +10,8 @@ namespace Lab1_Diego_Pinochet
     {
         static void Main(string[] args)
         {
-            Persona person = new Persona();
-            person.Name = "Bob";
-            person.LastName = "Kunga";
-
+            Persona person = new Persona("Bob","Kurgan");
+       
             person.Lanzar();
         }
     }

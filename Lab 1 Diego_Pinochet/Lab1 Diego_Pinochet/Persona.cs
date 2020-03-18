@@ -8,8 +8,14 @@ namespace Lab1_Diego_Pinochet
 {
     class Persona
     {
-        public string Name;
-        public string LastName;
+        private string Name;
+        private string LastName;
+
+        public Persona(string name, string lastName)
+        {
+            Name = name;
+            LastName = lastName;
+        }
 
         public void Lanzar()
         {
