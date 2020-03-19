@@ -13,8 +13,8 @@ namespace Lab1_Diego_Pinochet
 
         public Persona(string name, string lastName)
         {
-            Name = name;
-            LastName = lastName;
+            this.Name = name;
+            this.LastName = lastName;
         }
 
         public void Lanzar()
